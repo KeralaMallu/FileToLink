@@ -7,7 +7,7 @@ id_pattern = re.compile(r'^.\d+$')
 SESSION = environ.get('SESSION', 'FileToLink')
 API_ID = int(environ.get('API_ID', '20836266'))
 API_HASH = environ.get('API_HASH', 'bbdd206f92e1ca4bc4935b43dfd4a2a1')
-BOT_TOKEN = environ.get('BOT_TOKEN', "")
+BOT_TOKEN = environ.get('BOT_TOKEN', "7819181794:AAE96-tCTrLdpHldt3EddoH6Rsym7BYPi_E")
 
 # Bot settings
 PORT = environ.get("PORT", "8080")
